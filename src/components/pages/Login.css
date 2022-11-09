@@ -1,0 +1,16 @@
+/* .Login {
+    text-align: center;
+    background-color: red;
+    color: white;
+    display: flex;
+    flex-direction: column;
+} */
+
+.login {
+    text-align: center;
+    color: white;
+    background-color: #37b6ff;
+    display: flex;
+    flex-direction: column;
+}
+

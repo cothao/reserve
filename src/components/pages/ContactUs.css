@@ -1,0 +1,11 @@
+.Contact {
+    background-color: #37b6ff;
+    align-items: center;
+    justify-content: center;
+}
+.contact-us {
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
